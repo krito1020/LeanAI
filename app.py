@@ -38,7 +38,9 @@ def predict():
         'respuesta': respuesta,
         'confianza': confianza
     })
-
+@app.route('/', methods=['GET'])
+def index():
+    return "LeanAI Chatbot API está viva. Usa POST /predict para hacer consultas.", 200
 if __name__ == '__main__':
     app.run(debug=True)
 
