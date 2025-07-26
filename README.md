@@ -84,7 +84,7 @@ Puedes subir y ejecutar los scripts en Colab para entrenar el modelo, generar em
 
 ## Contacto y Créditos
 
-Desarrollado por [@krito1020](https://github.com/krito1020) y el equipo de INGELEAN S.A.S.  
+Desarrollado por el grupo IKIGAI CODERS y el equipo de INGELEAN S.A.S.  
 Para sugerencias, mejoras o reportar problemas, abre un Issue en el [repositorio GitHub](https://github.com/krito1020/LeanAI.git).
 
 ---
